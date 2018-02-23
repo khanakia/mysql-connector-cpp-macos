@@ -26,7 +26,7 @@ By Default g++ uses clang compiler which comes with Xcode which is not a genuine
   1. Extract cppconn direcotry and mysql_connection.h, mysql_driver.h, mysql_error.h file to the root direcotry of your application
   
   STEP 2 - CREATE DYLIB file from cpp connector using the same compiler we are using to compile our code  
-  git clone https://github.com/mysql/mysql-connector-cpp . 
+  git clone https://github.com/mysql/mysql-connector-cpp .   
   git checkout 1.1  
   git tag  
   git checkout tags/1.1.9  
