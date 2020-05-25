@@ -1,6 +1,6 @@
 ## How to connect to Mysql using C++ in Mac Osx
 
-There are 2 ways of doing that first user mysql.h file or using mysql connector
+There are 2 ways of doing that first using mysql.h file or using mysql connector
 
 ### Using Mysql.h
 You can check demo1.cpp file which is using mysql.h
